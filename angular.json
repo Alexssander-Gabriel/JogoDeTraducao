@@ -31,6 +31,7 @@
               "src/assets"
             ],
             "styles": [
+              "C:/Users/Cre4tive/Documents/Cursos/UDEMY - Es6 , TypeScript e Angular/Angular/Projetos/app1/node_modules/bootstrap/dist/css/bootstrap.min.css",
               "src/styles.scss"
             ],
             "scripts": []
